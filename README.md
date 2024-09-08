@@ -1,1 +1,5 @@
 # WAR-TRIANGLE
+
+## OUTPUT
+
+![]
